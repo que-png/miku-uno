@@ -40,4 +40,4 @@ git clone https://github.com/que/miku-uno.git
 pip install -r requirements.txt
 
 # Launch game
-gra.py
+python gra.py
